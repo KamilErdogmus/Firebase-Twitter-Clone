@@ -34,7 +34,7 @@ This project is a Twitter-X clone built using React and Vite, integrating Fireba
 
 ## Deployment
 
-The project is deployed and can be accessed [here](). For the project to run smoothly, please follow the installation steps below to set it up locally. Note that the project may behave differently across different browsers.
+The project is deployed and can be accessed [here](https://firebase-twitter-x-clone.vercel.app/). For the project to run smoothly, please follow the installation steps below to set it up locally. Note that the project may behave differently across different browsers.
 
 ## Installation
 
